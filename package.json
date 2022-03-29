@@ -1,7 +1,7 @@
 {
-  "name": "sponsorbot-mala",
+  "name": "blade Sponsor",
   "version": "1.0.0",
-  "description": "mlk#2389",
+  "description": "動力與智#1000", 
   "main": "sponsorbot.js",
   "dependencies": {
     "array-sort": "^1.0.0",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/Malakrovi/sponsorbot.git"
   },
-  "author": "mlk#2389",
+  "author": "動力與智#1000",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Malakrovi/sponsorbot/issues"
